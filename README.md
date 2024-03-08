@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pankaj-chourasia&label=Profile%20views&color=0e75b6&style=flat" alt="pankaj-chourasia" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pankaj-chourasia" alt="pankaj-chourasia" /></a> </p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=Pankaj-Chourasia)](https://github.com/Pankaj-Chourasia/github-profile-trophy)
 
 - 🌱 I’m currently learning **Svelte, Electron**
 
