@@ -5,7 +5,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Pankaj-Chourasia&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
-- 🌱 I’m currently learning **Svelte, Electron**
+- 🌱 I’m currently learning **Redux, Next.js**
 
 - 👯 I’m looking to collaborate on **Full Stack Projects**
 
