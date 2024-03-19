@@ -32,6 +32,11 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Pankaj-Chourasia&theme=github-dark" alt="Pankaj-Chourasia" /></p>
 
   <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Pankaj-Chourasia&locale=en&hide_title=false&layout=compact&card_width=410&langs_count=5&theme=chartreuse-dark&hide_border=false&order=2" height="200" alt="languages graph"  /></p>
+  
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pankaj-Chourasia/Pankaj-Chourasia/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pankaj-Chourasia/Pankaj-Chourasia/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Pankaj-Chourasia/Pankaj-Chourasia/output/github-contribution-grid-snake.svg">
+</picture>
 
-![snake gif](https://github.com/Pankaj-Chourasia/Pankaj-Chourasia/blob/output/github-contribution-grid-snake.svg)
 ###
