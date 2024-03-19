@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **Kubernetes**
 
-- 💬 Ask me about **JavaScript, React, Java, C++**
+- 💬 Ask me about **JavaScript, React.js, Java, C++**
 
 - ⚡ Fun fact **I am Alive and Awake**
 
