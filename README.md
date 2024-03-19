@@ -29,7 +29,9 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
 </p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Pankaj-Chourasia&" alt="Pankaj-Chourasia" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pankaj-chourasia&show_icons=true&locale=en" alt="pankaj-chourasia" /></p>
+  <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Pankaj-Chourasia&locale=en&hide_title=false&layout=compact&card_width=410&langs_count=5&theme=dracula&hide_border=false&order=2" height="200" alt="languages graph"  /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pankaj-chourasia&" alt="pankaj-chourasia" /></p>
+
+###
