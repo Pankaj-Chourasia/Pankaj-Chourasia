@@ -5,9 +5,12 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Pankaj-Chourasia&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
+---
+
+### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
 - 🌱 I’m currently learning **Redux, Next.js**
 
-- 👯 I’m looking to collaborate on **Full Stack Projects**
+- 👯 I’m looking to collaborate on **Full Stack Projects** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 - 🤝 I’m looking for help with **Kubernetes**
 
@@ -29,14 +32,32 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
 </p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Pankaj-Chourasia&theme=github-dark" alt="Pankaj-Chourasia" /></p>
 
-  <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Pankaj-Chourasia&locale=en&hide_title=false&layout=compact&card_width=410&langs_count=5&theme=chartreuse-dark&hide_border=false&order=2" height="200" alt="languages graph"  /></p>
-  
+---
+
+### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25' /> My Github Stats:
+<div style="display: flex; justify-content: space-between;">
+        <img src="https://github-readme-stats.vercel.app/api?username=Pankaj-Chourasia&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=codeSTACKr&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pankaj-Chourasia&layout=compact&text_color=daf7dc&bg_color=151515" height="150" alt="top languages" />
+</div>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Pankaj-Chourasia&theme=github-dark)](https://git.io/streak-stats)
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pankaj-Chourasia&radius=16&theme=green&area=true&order=5&custom_title=Pankaj's%20Contribution%20Graph" height="300" alt="activity-graph graph"  />
+</div>
+
+---
+
+### Feeding Commits to the GitHub Python
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pankaj-Chourasia/Pankaj-Chourasia/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pankaj-Chourasia/Pankaj-Chourasia/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Pankaj-Chourasia/Pankaj-Chourasia/output/github-contribution-grid-snake.svg">
 </picture>
 
-###
+---
+
+### <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width ='29' /> Here's some humor for you:
+<img src="https://readme-jokes.vercel.app/api" alt="Error fetching resource, Refresh again to view Jokes Card" width = '11000' />
+
