@@ -1,6 +1,7 @@
 <h1 align="center">Hi <img src = "https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif">, I'm Pankaj Chourasia</h1>
-<h3 align="center">Architecting Digital Realities 💡💻</h3>
-
+<h3 align="center">Architecting Digital Realities
+<img src="https://media.giphy.com/media/VTRUeNCbZECfhV9o7E/giphy.gif" width="40" height="25">
+</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pankaj-chourasia&label=Profile%20views&color=0e75b6&style=flat" alt="pankaj-chourasia" /> </p>
 
 <div align="center" >
@@ -48,7 +49,7 @@
 
 ---
 
-### Feeding Commits to the GitHub Python
+### <img src="https://media.giphy.com/media/3oFzmdjqH15YebLQ52/giphy.gif" width="20" height="15"> Feeding Commits to the GitHub Python
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pankaj-Chourasia/Pankaj-Chourasia/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pankaj-Chourasia/Pankaj-Chourasia/output/github-contribution-grid-snake.svg">
@@ -58,5 +59,5 @@
 ---
 
 ### <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width ='29' /> Here's some humor for you:
-<img src="https://readme-jokes.vercel.app/api" alt="Error fetching resource, Refresh again to view Jokes Card" width = '11000' />
+<img src="https://readme-jokes.vercel.app/api?theme=radical" alt="Error fetching resource, Refresh again to view Jokes Card" width = '11000' />
 
