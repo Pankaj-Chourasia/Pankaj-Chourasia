@@ -3,7 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pankaj-chourasia&label=Profile%20views&color=0e75b6&style=flat" alt="pankaj-chourasia" /> </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Pankaj-Chourasia&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+<div align="center" >
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+        <img src="https://github-profile-trophy.vercel.app/?username=Pankaj-Chourasia&title=Commits,Repositories,Experience&column=3&no-frame=true&theme=radical" alt="trophy" style="width: 40%;" />
+    </a>
+</div>
 
 ---
 
@@ -18,11 +22,6 @@
 
 - ⚡ Fun fact **I am Alive and Awake**
 
-<h3 align="left">Connect with me:</h3>
-<div align="left">
-  <a href = "https://linkedin.com/in/pankajkumarchourasia"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  /></a>
-</div>
-
 ###
 
 <h3 align="left">Languages and Tools:</h3>
@@ -36,15 +35,15 @@
 ---
 
 ### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25' /> My Github Stats:
-<div style="display: flex; justify-content: space-between;">
-        <img src="https://github-readme-stats.vercel.app/api?username=Pankaj-Chourasia&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=codeSTACKr&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pankaj-Chourasia&layout=compact&text_color=daf7dc&bg_color=151515" height="150" alt="top languages" />
+<div style="display: flex; align-items: center;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pankaj-Chourasia&theme=github-dark" alt="GitHub Streak" style="width: 420px; margin-left: 320px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pankaj-Chourasia&layout=compact&text_color=daf7dc&bg_color=151515" height = "150" width="300" alt="Top Languages" />
 </div>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Pankaj-Chourasia&theme=github-dark)](https://git.io/streak-stats)
+---
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pankaj-Chourasia&radius=16&theme=green&area=true&order=5&custom_title=Pankaj's%20Contribution%20Graph" height="300" alt="activity-graph graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pankaj-Chourasia&radius=16&theme=green&area=true&order=5&custom_title=Pankaj's%20Contribution%20Graph" height="270" alt="activity-graph graph"  />
 </div>
 
 ---
