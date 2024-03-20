@@ -13,6 +13,8 @@
 ---
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
+<img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="330" height="200" align ="right">
+
 - 🌱 I’m currently learning **Redux, Next.js**
 
 - 👯 I’m looking to collaborate on **Full Stack Projects** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
@@ -44,7 +46,7 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pankaj-Chourasia&radius=16&theme=green&area=true&order=5&custom_title=Pankaj's%20Contribution%20Graph" height="270" alt="activity-graph graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pankaj-Chourasia&radius=16&theme=high-contrast&area=true&order=5&custom_title=Pankaj's%20Contribution%20Graph" height="270" alt="activity-graph graph"  />
 </div>
 
 ---
