@@ -1,8 +1,8 @@
 <h1 align="center">Hi <img src = "https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif">, I'm Pankaj Chourasia</h1>
 <h3 align="center">Architecting Digital Realities
-<img src="https://media.giphy.com/media/VTRUeNCbZECfhV9o7E/giphy.gif" width="40" height="25">
+<img src="https://media.giphy.com/media/VTRUeNCbZECfhV9o7E/giphy.gif" width="40" height="25" style="background-color: transparent;">
 </h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pankaj-chourasia&label=Profile%20views&color=0e75b6&style=flat" alt="pankaj-chourasia" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pankaj-chourasia&label=Profile%20views&color=blueviolet&style=plastic" alt="pankaj-chourasia" /> </p>
 
 <div align="center" >
     <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -34,6 +34,13 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
 </p>
+
+### Connect with Me:
+<div align="left">
+  <a href="https://linkedin.com/in/pankajkumarchourasia" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="48" height="30" alt="linkedin logo"  />
+  </a>
+</div>
 
 ---
 
