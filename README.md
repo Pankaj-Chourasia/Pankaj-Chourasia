@@ -1,6 +1,5 @@
 <h1 align="center">Hi <img src = "https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif">, I'm Pankaj Chourasia</h1>
-<h3 align="center">Architecting Digital Realities
-<img src="https://media.giphy.com/media/VTRUeNCbZECfhV9o7E/giphy.gif" width="40" height="25" style="background-color: transparent;">
+<h3 align="center">Architecting Digital Realities <img src="https://media.giphy.com/media/l41lGnxllmN3YqOyI/giphy.gif" width="45" height="45">
 </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pankaj-chourasia&label=Profile%20views&color=blueviolet&style=plastic" alt="pankaj-chourasia" /> </p>
 
