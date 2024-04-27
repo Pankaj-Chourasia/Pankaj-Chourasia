@@ -39,6 +39,9 @@
   <a href="https://linkedin.com/in/pankajkumarchourasia" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="48" height="30" alt="linkedin logo"  />
   </a>
+    <a href="mailto:pankaj.chourasia.sbg@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="48" height="30" alt="gmail logo"  />
+  </a>
 </div>
 
 ---
@@ -49,7 +52,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pankaj-Chourasia&layout=compact&text_color=daf7dc&bg_color=151515" height = "150" width="300" alt="Top Languages" />
 
  <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pankaj-Chourasia&radius=16&theme=high-contrast&area=true&order=5&custom_title=Pankaj's%20Contribution%20Graph" height="270" alt="activity-graph graph"  /> -->
- <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pankaj-Chourasia&theme=github_dark"/>
+ <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pankaj-Chourasia&theme=aura"/>
 </div>
 
 ---
