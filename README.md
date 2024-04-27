@@ -47,12 +47,9 @@
 <div style="display: flex; align-items: center;">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pankaj-Chourasia&theme=github-dark" alt="GitHub Streak" style="width: 420px; margin-left: 320px" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pankaj-Chourasia&layout=compact&text_color=daf7dc&bg_color=151515" height = "150" width="300" alt="Top Languages" />
-</div>
 
----
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pankaj-Chourasia&radius=16&theme=high-contrast&area=true&order=5&custom_title=Pankaj's%20Contribution%20Graph" height="270" alt="activity-graph graph"  />
+ <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pankaj-Chourasia&radius=16&theme=high-contrast&area=true&order=5&custom_title=Pankaj's%20Contribution%20Graph" height="270" alt="activity-graph graph"  /> -->
+ <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pankaj-Chourasia&theme=github_dark"/>
 </div>
 
 ---
