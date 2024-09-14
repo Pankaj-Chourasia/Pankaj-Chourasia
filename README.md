@@ -60,7 +60,7 @@
 ---
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“In an information economy, the most valuable company assets drive themselves home every night.  If they are not treated well, they do not return the next morning.”— Peter Chang  ❞</i>
+<i>❝“We need above all to know about changes; no one wants or needs to be reminded 16 hours a day that his shoes are on.”— David Hubel   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 ---
