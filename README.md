@@ -60,7 +60,7 @@
 ---
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“Where is the ‘any’ key?”— Homer Simpson, in response to the message, “Press any key”   ❞</i>
+<i>❝TYPEWRITER is the longest word that you can write using the letters only on one row of the keyboard of your computer.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 ---
