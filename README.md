@@ -60,7 +60,7 @@
 ---
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“The Internet?  We are not interested in it.”— Bill Gates, 1993   ❞</i>
+<i>❝Russians made a computer that ran on water in the mid of 1936.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 ---
