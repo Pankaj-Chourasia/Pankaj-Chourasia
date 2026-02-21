@@ -60,7 +60,7 @@
 ---
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“Software is a gas; it expands to fill its container.”— Nathan Myhrvold  ❞</i>
+<i>❝“The goal is to turn data into information, and information into insight.”— Carly Fiorina❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 ---
