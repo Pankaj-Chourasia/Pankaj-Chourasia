@@ -60,7 +60,7 @@
 ---
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“In 2031, lawyers will be commonly a part of most development teams.”— Grady Booch   ❞</i>
+<i>❝“Without a systematic way to start and keep data clean, bad data will happen.”— Donato Diorio❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 ---
